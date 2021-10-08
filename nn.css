@@ -1,0 +1,241 @@
+.first {
+    width: 15%;
+    height: 100vh;
+     background-color: rgb(245, 247, 250);
+     /* background-color: pink; */
+     position: sticky;
+     top: 0;
+     box-shadow: 0px 0px 1px;
+     flex-direction: column;
+     display: flex;
+     justify-content: space-around;
+
+
+}
+.nav1{
+    position: sticky;
+    top: 0;
+    background-color: white;
+    box-shadow: 0px 0px 1px;
+
+
+
+}
+.second {
+    width: 85%;
+    /* height: 9000px; */
+    /* background-color: red; */
+    
+    
+}
+.third {
+    width: 5%;
+    height: 100vh;
+    background-color: rgb(245, 247, 250);
+    /* background-color: saddlebrown; */
+    position: sticky;
+    top: 0;
+}
+.noun{
+    width: 150px;
+    height: 40px;
+    background-color: green;
+    border-radius: 30px;
+    color: white;
+    /* margin-right: 70px */
+    text-align: center;
+}
+.hen{
+    width: 800px;
+    height: 40px;
+    background-color: rgb(245, 247, 250);
+    border-radius: 30px;
+    
+
+}
+.role{
+    display: flex;
+    margin-left: 150px;
+    
+}
+
+.hen2{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.hen3{
+    font-size: 20px;
+    color: gray;
+    
+}
+/* .lott{
+    text-align: center;
+    height: 90px;
+    
+} */
+#blue{
+    width: 220;
+    height: 40px;
+    background-color: rgb(41, 98, 255);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: 20px;
+
+}
+#more{
+    background-color: rgb(41, 98, 255);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    height: 40px;
+    font-size: 20px;
+
+}
+#all{
+    background-color: white;
+    border-radius: 5px;
+    /* border: none; */
+    color: black;
+    height: 40px;
+    font-size: 20px;
+    box-shadow: 0px 0px 1px;
+
+
+}
+#node{
+    background-color: rgb(41, 98, 255);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    height: 40px;
+    font-size: 20px;
+
+}
+#blog{
+    background-color: rgb(41, 98, 255);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    height: 40px;
+    font-size: 15px;
+
+    
+}
+.hen4{
+    font-size: 20px;
+    text-align: center;
+    width: 270px;
+    height: 40px;
+    background-color: rgb(41, 98, 255);
+    color: white;
+    border-radius: 5px;
+    margin-left: 410px;
+}
+.p1{
+    font-size: 17px;
+    color: gray;
+}
+.founder{
+    width: 850px;
+    height: 250px;
+    /* background-color: blue; */
+    margin-left: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 5px;
+    /* border: solid lightgray; */
+    box-shadow: 5px 5px 9px;
+    
+}
+.amin{
+    justify-content: space-around;
+    display: flex;
+}
+.hen6{
+    font-weight: 100;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+}
+.hen7{
+    color: black;
+    font-weight: 100;
+}
+.tent1{
+    width: 330px;
+    height: 500px;
+    /* background-color: blue; */
+    text-align: center;
+    margin-bottom: 55px;
+     /* border: solid lightgray; */
+     /* box-shadow: 0px 0px 0px 1px; */
+     box-shadow: 0px 0px 1px;
+
+}
+.blog{
+    width: 340px;
+    height: 300px;
+    /* background-color: blue; */
+    text-align: center;
+    margin: 5px;
+  
+}
+.blog1, .blog3, .blog6, .blog8, .blog9, .blog10, .blog12 {
+    /* background-color: blue; */
+    text-align: center;
+    width: 340px;
+    height: 300px;
+    margin: 5px;
+     /* border: solid lightgray; */
+   /* box-shadow: 0px 0px 0px 1px; */
+   box-shadow: 0px 0px 1px;
+
+
+}
+.motor{
+    width: 500px;
+    height: 150px;
+    /* margin: 10px; */
+}
+.house{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+
+.commute{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+.best{
+    width: 350px;
+    height: 400px;
+    /* background-color: blue; */
+    justify-content: center;
+    margin: 10px;
+    /* box-shadow: 0px 0px 0px 1px; */
+   /* box-shadow: 0px 0px 1px ; */
+    box-shadow: 0px 1px 4px;
+
+
+
+}
+li:hover{
+    background-color: rgb(245, 247, 250);
+
+}
+.pool{
+    width: 30px;
+    margin: 9px;
+}
+.pool:hover{
+    background-color: wheat;
+}
